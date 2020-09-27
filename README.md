@@ -1,1 +1,1 @@
-# Superhero(Python)
+# Superhero(Python) База данных супергероев
